@@ -1,0 +1,36 @@
+﻿  glad.c
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  main.cpp
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(93,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(267,46): warning C4312: '<function-style-cast>': 將 'unsigned int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(270,47): warning C4312: '<function-style-cast>': 將 'unsigned int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(277,64): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(278,50): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(329,66): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(331,66): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(340,70): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(346,70): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(365,82): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(365,71): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(378,70): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(379,82): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(379,71): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(447,70): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(450,70): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(463,87): warning C4312: '<function-style-cast>': 將 'unsigned int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(466,91): warning C4312: '<function-style-cast>': 將 'unsigned int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(476,80): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(479,80): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(482,32): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\main.cpp(495,80): warning C4312: '<function-style-cast>': 將 'int' 轉換為較大的 'ImTextureID'
+  reversi.cpp
+  texture.cpp
+D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\reversi\texture.cpp(3,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+  正在產生程式碼...
+LINK : warning LNK4098: 預設的程式庫 'LIBCMT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  reversi.vcxproj -> D:\coding\frakw\NTUST_COMPUTER_GRAPHICS\電腦圖學導論\實習\reversi\x64\Debug\reversi.exe
